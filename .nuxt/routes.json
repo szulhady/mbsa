@@ -1,0 +1,23 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\PROJECTS\\\\MBSA\\\\Front\\\\mbsa\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_41b5a718"
+  },
+  {
+    "name": "main",
+    "path": "/main",
+    "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\PROJECTS\\\\MBSA\\\\Front\\\\mbsa\\\\pages\\\\main.vue",
+    "chunkName": "pages/main",
+    "_name": "_47177f0f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\PROJECTS\\\\MBSA\\\\Front\\\\mbsa\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d4d3eec"
+  }
+]
